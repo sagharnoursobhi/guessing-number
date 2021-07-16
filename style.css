@@ -1,0 +1,102 @@
+    html{
+        font-family: 'Odibee Sans';
+        word-spacing: 3px;
+        letter-spacing: 2px;
+    }
+    .header-section1{
+        display: flex!important;
+        justify-content: space-between!important;
+        align-items: center!important;
+    }
+    button.again{
+        padding: 15px 30px;
+        font-size: 20px;
+        border: 0;
+        cursor: pointer;
+        font-family: 'Odibee Sans';
+        letter-spacing: 2px;
+    }
+    span.between{
+        font-size: 26px;
+    }
+    .container{
+        position: absolute;
+        top: 25%;
+        right: 25%;
+        width: 700px;
+        border: 5px solid white;
+        padding: 30px;
+        border-radius: 15px;
+        background:black no-repeat bottom right/cover
+    }
+
+    .header-section2{
+        display: flex;
+        flex-direction: column;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 5px solid white;
+        position: relative;
+        padding-bottom: 50px;
+    }
+    .number{
+        position: absolute;
+        bottom: -25%;
+        background-color: white;
+        padding: 9px 55px;
+        font-size: 58px;
+        font-weight: 900;
+        font-family: 'Odibee Sans';
+    }
+
+    .section-main{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .left-input{
+        font-size: 18px;
+        background-color: white;
+        padding: 11px 9px;
+        border: 0;
+        color: black;
+        border: 0;
+        font-family: 'Odibee Sans';
+    }
+
+    section.left{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    section.right{
+        margin-top: 50px;
+    }
+    .check-btn{
+        margin-top: 19px;
+        font-size: 20px;
+        padding: 10px;
+        border: 0;
+        font-weight: bold;
+        cursor: pointer;
+        font-family: 'Odibee Sans';
+        letter-spacing: 2px;
+    }
+
+    p{
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+    }
+    h2{
+        color: white;
+        padding: 20px;
+    }
+    span{
+        color: white;
+    }
